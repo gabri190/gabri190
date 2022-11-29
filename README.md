@@ -1,4 +1,4 @@
-## Oi eu sou Gabriel de Araújo, estudante na área de Engenharia da Computação!
+## Gabriel de Araújo, Computer Enginner Student!
 <div align="center" >
   <a href="https://github.com/gabri190">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabri190&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
