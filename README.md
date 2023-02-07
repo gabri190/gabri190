@@ -11,6 +11,8 @@
   <img align="center" alt="Gabri-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gabri-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gabri-Latex"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
+  <img align="center" alt="Gabri-C"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/c-original.svg" />
+  
   
   <img align="right" alt="Gabri-pic" height="150" style="border-radius:50px;" src="https://www.evolutecursos.com.br/painel/uploads/348c2894ba9592b6044a1d140a6ed454.jpg">
  
